@@ -1,1 +1,1 @@
-hackernews
+hackernews cli
