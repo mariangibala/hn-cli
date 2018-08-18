@@ -1,0 +1,26 @@
+.idea
+.vscode
+
+**/node_modules
+**/npm-debug.log
+
+**/temp
+**/build
+**/dist
+
+.env
+
+# Runtime generated files
+*.__build__.*
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac crap
+.DS_Store
+
+# For docker-compose generated on runtime form template+env
+docker-compose*

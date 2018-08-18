@@ -1,0 +1,13 @@
+**/node_modules
+**/dist
+**/build
+**/temp
+**/release
+**/npm-debug.log
+.idea
+.git
+.eslintc
+.eslintignore
+.gitignore
+.gitattributes
+.npmignore

@@ -1,0 +1,14 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "Hacker News Terminal App",
+  "main": "src/index.js",
+  "author": "Marian Gibala",
+  "license": "MIT",
+  "dependencies": {
+    "joi": "13.6.0",
+    "minimist": "1.2.0",
+    "mocha": "5.2.0",
+    "node-fetch": "2.2.0"
+  }
+}
